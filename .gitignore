@@ -1,0 +1,10 @@
+*
+!*.README
+!*.sh
+!*.py
+!.gitignore
+!*.pl
+!*.R
+!*/
+!*.ipynb
+
