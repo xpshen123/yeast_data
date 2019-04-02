@@ -5,6 +5,6 @@
 !.gitignore
 !*.pl
 !*.R
-!*/
+*/
 !*.ipynb
 
